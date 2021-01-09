@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Winnie (pronouns are she/her/hers)!
+
+I'm a second year Cognitive Systems student in Computer Science at the University of British Columbia.
+
+Currently, I am working on coding in Python and Javascript and learning about UX/UI design. Feel free to message me with any tips or if you want to learn together!
 <!--
 **wwen016/wwen016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
